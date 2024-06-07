@@ -38,4 +38,5 @@ img {
 
 .gallery-link:hover {
     cursor: pointer;
+    color: blue;
 }
